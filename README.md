@@ -290,4 +290,4 @@ npm test
 ```
 
 ----
-Markdown generated from [README_js.md](README_js.md) by [![RunMD Logo](http://i.imgur.com/h0FVyzU.png)](https://github.com/broofa/runmd) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/kelektiv--node-uuid.svg)](https://www.staging.guardrails.io)
+Markdown generated from [README_js.md](README_js.md) by [![RunMD Logo](http://i.imgur.com/h0FVyzU.png)](https://github.com/broofa/runmd) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/kelektiv--node-uuid.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/kelektiv--node-uuid.svg)](https://www.guardrails.io)
